@@ -11,8 +11,8 @@ const Header = () => {
     <Box 
       bg="teal.500" 
       px={4} 
-      pt={{ base: '40px', sm: '0' }} // Padding top for screens <= 515px
-      pb={{ base: '80px', sm: '0' }} // Padding bottom for screens <= 515px
+      pt={{ base: '50px', sm: '0' }} // Padding top for screens <= 515px
+      pb={{ base: '100px', sm: '0' }} // Padding bottom for screens <= 515px
     >
       <Flex
         h={16}
